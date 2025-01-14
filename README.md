@@ -11,3 +11,13 @@ Goal
 2. Test the code. (Useing ublox / rtk)
 3. Make the code to JAVA to use on Springboot
 4. Yey
+
+Mini goal
+--
+1
+
+- Parse : Rawx / sfrbx message form ublox
+- Parse : RTCM form ublox
+
+- See if I can use PAWX/SFRBX/RTCM on rtkpose.c file
+- test the accuracy are right
